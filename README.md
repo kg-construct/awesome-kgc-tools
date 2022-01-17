@@ -4,6 +4,7 @@ Links and description of Knowledge Graphs Construction Tools
 
 
 ## KGC Materializers
+* [Chimera](https://github.com/cefriel/chimera) - Framework based on Apache Camel to define composable semantic data transformation pipelines (lifting/lowering to/from RDF)
 
 ## KGC Virtualizers
 
