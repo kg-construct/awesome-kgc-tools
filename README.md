@@ -24,9 +24,12 @@ Links and description of Knowledge Graphs Construction Tools
 * [J2RM](https://w3id.org/kgcp/J2RM/) - J2RM mappings and its engine compose a tool to process mappings from JSON data to RDF triples guided by an OWL2 ontology structure.
 
 ## Mapping Editors
-* [Mapeathor](https://morph.oeg.fi.upm.es/tool/mapeathor) - Definition of Excel-based mappings and translation to [R2]RML mappings
+* [Mapeathor](https://morph.oeg.fi.upm.es/tool/mapeathor) - Definition of Excel-based mappings and translation to [R2]RML mappings.
 * [Matey](https://rml.io/yarrrrml/matey/) - Matey is a web based editor for YARRRML rules.
 * [RMLEditor](https://github.com/RMLio/rmleditor-ce) - RMLEditor offers a Graphical User Interface to enable data publishers, who are domain experts, to model knowledge derived from heterogeneous distributed data.
+* [RMLx Visual Editor](https://pebbie.org/mashup/rml) - A web based editor for RML rules. 
+* [Square](https://square.semvis.pl/projects) - SPARQL Queries and R2RML mappings Environment
+* [Map-On](https://github.com/arc-lasalle/Map-On) - A web-based editor for visual ontology mapping for R2RML documents (DEPRECATED)
 
 ## KGC Pipelines
 * [KGCP](http://w3id.org/kgcp/) - "_KG Construction Pipeline_" - A suite of software artifacts to automate the creation of KGs from heterogeneous data sources.
