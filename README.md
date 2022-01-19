@@ -3,6 +3,7 @@
 Links and description of Knowledge Graphs Construction Tools
 
 ## KGC Materializers
+* [Morph-KGC](https://github.com/oeg-upm/morph-kgc) - R2RML and RML processor to generate RDF knowledge graphs from heterogeneous data sources at scale.
 * [Chimera](https://github.com/cefriel/chimera) - Framework based on Apache Camel to define composable semantic data transformation pipelines (lifting/lowering to/from RDF)
 * [RMLMapper](https://github.com/RMLio/rmlmapper-java/) - The RMLMapper executes RML rules to generate high quality Linked Data from multiple originally (semi-)structured data sources 
 * [RMLStreamer](https://github.com/RMLio/RMLStreamer/) - The RMLStreamer executes RML rules to generate high quality Linked Data from multiple originally (semi-)structured data sources in a streaming way. 
