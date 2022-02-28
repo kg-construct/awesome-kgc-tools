@@ -9,12 +9,15 @@ Links and description of Knowledge Graphs Construction Tools
 * [RMLStreamer](https://github.com/RMLio/RMLStreamer/) - The RMLStreamer executes RML rules to generate high quality Linked Data from multiple originally (semi-)structured data sources in a streaming way. 
 * [xls2rdf](https://github.com/sparna-git/xls2rdf) - converts Excel files containing a "magic line" into RDF.
 * [Morph-xR2RML](https://github.com/frmichel/morph-xr2rml/) - Implementation of the xR2RML mapping language (extending R2RML and reusing RML terms) for MongoDB databases. Can be used to map JSON data but also any format that can be imported in MongoDB, in particular CSV/TSV. Was used in different projects to produce 2.4 billion triples so far.
+* [SDM-RDFizer](https://github.com/SDM-TIB/SDM-RDFizer) - An efficient scaled-up RML-compliant engine for knowledge graph construction from heterogenous data sources.
 
 ## KGC Virtualizers
 * [Ontop](https://github.com/ontop/ontop) - Ontop is a platform to query relational databases as Virtual RDF Graphs using SPARQL (R2RML)
 
 ## KGC Pre-processors
 * [MEL](https://w3id.org/kgcp/MEL-TNNT/) - (*Metadata Extractor & Loader*) - A tool to extract metadata (and textual content) from various file formats, as JSON objects.
+* [Dragoman](https://github.com/SDM-TIB/Dragoman) - An efficient RML+FnO-compliant engine for translating and executing complex functions in RML mapping rules and transfer the data integration system into a function-free one. 
+* [EABlock](https://github.com/SDM-TIB/EABlock) - A computational block to solve entity alignment over textual attributes in a knowledge graph creation pipeline. 
 * [FunMap](https://github.com/SDM-TIB/FunMap) - Efficient preprocessing of transformation rules described in RML+FnO mappings.
 
 ## NLP for KGC
