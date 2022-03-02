@@ -35,6 +35,7 @@ Links and description of Knowledge Graphs Construction Tools
 * [xR2RML](https://www.i3s.unice.fr/~fmichel/xr2rml_specification.html) - xR2RML is a language for expressing customized mappings from various types of databases (XML, object-oriented, NoSQL) to RDF datasets.
 
 ## Mapping Editors
+* [JUMA](https://opengogs.adaptcentre.ie/crottija/juma-r2rml) - Jigsaw Puzzles for Representing Mappings
 * [Mapeathor](https://morph.oeg.fi.upm.es/tool/mapeathor) - Definition of Excel-based mappings and translation to [R2]RML mappings.
 * [Matey](https://rml.io/yarrrrml/matey/) - Matey is a web based editor for YARRRML rules.
 * [RMLEditor](https://github.com/RMLio/rmleditor-ce) - RMLEditor offers a Graphical User Interface to enable data publishers, who are domain experts, to model knowledge derived from heterogeneous distributed data.
