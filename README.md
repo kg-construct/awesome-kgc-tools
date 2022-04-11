@@ -21,11 +21,12 @@ Links and description of Knowledge Graphs Construction Tools
 * [Dragoman](https://github.com/SDM-TIB/Dragoman) - An efficient RML+FnO-compliant engine for translating and executing complex functions in RML mapping rules and transfer the data integration system into a function-free one. 
 * [EABlock](https://github.com/SDM-TIB/EABlock) - A computational block to solve entity alignment over textual attributes in a knowledge graph creation pipeline. 
 * [FunMap](https://github.com/SDM-TIB/FunMap) - Efficient preprocessing of transformation rules described in RML+FnO mappings.
+* [Excel in RML](https://www.dfki.uni-kl.de/~mschroeder/demo/excel-rml/) - RMLMapper extension to support Excel spreadsheets.
 
 ## NLP for KGC
 * [TNNT](https://w3id.org/kgcp/MEL-TNNT/) - (*The NLP/NER Toolkit*) - A tool that automates the extraction of categorised named entities from the unstructured information encoded in the source documents, using diverse NLP tools and NER models.
 
-## Mapping specifications
+## Mapping Specifications
 * [RML](https://rml.io/specs/rml/) - The RDF Mapping language (RML) is a mapping language defined to express customized mapping rules from heterogeneous data structures and serializations to the RDF data model. 
 * [Target in RML](https://rml.io/specs/rml-target/) - Alignment between RML and Target to describe how your knowledge graph should be exported to one or multiple targets.
 * [DataIO](https://rml.io/specs/dataio/) - Target, a formal model and a common representation for specifying how a Knowledge Graph should be exported to a given target
@@ -44,5 +45,12 @@ Links and description of Knowledge Graphs Construction Tools
 * [Square](https://square.semvis.pl/projects) - SPARQL Queries and R2RML mappings Environment
 * [Map-On](https://github.com/arc-lasalle/Map-On) - A web-based editor for visual ontology mapping for R2RML documents (DEPRECATED)
 
+## Mapping Generators
+* [Spread2RML](https://www.dfki.uni-kl.de/~mschroeder/demo/spread2rml/) - Suggests RML mappings on messy spreadsheets.
+
 ## KGC Pipelines
 * [KGCP](http://w3id.org/kgcp/) - "_KG Construction Pipeline_" - A suite of software artifacts to automate the creation of KGs from heterogeneous data sources.
+
+## KGC Evaluation
+* [Data Sprout](https://www.dfki.uni-kl.de/~mschroeder/demo/datasprout/) - Excel spreadsheet generator for evaluating KG construction.
+* [GTFS-Madrid-Bench](https://github.com/oeg-upm/gtfs-bench) - Benchmark to evaluate performance & scalability of declarative KG construction engines
