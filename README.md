@@ -11,6 +11,7 @@ Links and description of Knowledge Graphs Construction Tools
 * [Morph-xR2RML](https://github.com/frmichel/morph-xr2rml/) - Implementation of the xR2RML mapping language (extending R2RML and reusing RML terms) for MongoDB databases. Can be used to map JSON data but also any format that can be imported in MongoDB, in particular CSV/TSV. Was used in different projects to produce 2.4 billion triples so far.
 * [SDM-RDFizer](https://github.com/SDM-TIB/SDM-RDFizer) - An efficient scaled-up RML-compliant engine for knowledge graph construction from heterogenous data sources.
 * [CARML](https://github.com/carml/carml) - An extensible RML processor to generate RDF knowledge graphs from heterogeneous data sources.
+* [R2RML-F](https://github.com/chrdebru/r2rml) - An R2RML processor with support for functions in JavaScript. Allows one to transform the contents of CSV files as virtual relational tables.
 
 ## KGC Virtualizers
 * [Ontop](https://github.com/ontop/ontop) - Ontop is a platform to query relational databases as Virtual RDF Graphs using SPARQL (R2RML)
