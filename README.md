@@ -47,6 +47,7 @@ Links and description of Knowledge Graphs Construction Tools
 
 ## Mapping Generators
 * [Spread2RML](https://www.dfki.uni-kl.de/~mschroeder/demo/spread2rml/) - Suggests RML mappings on messy spreadsheets.
+* [OWL2YARRRML](https://github.com/oeg-upm/owl2yarrrml) - Generates a mapping template in YARRRML given an ontology.
 
 ## KGC Pipelines
 * [KGCP](http://w3id.org/kgcp/) - "_KG Construction Pipeline_" - A suite of software artifacts to automate the creation of KGs from heterogeneous data sources.
