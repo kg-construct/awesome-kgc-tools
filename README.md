@@ -45,6 +45,11 @@ Links and description of Knowledge Graphs Construction Tools
 * [Square](https://square.semvis.pl/projects) - SPARQL Queries and R2RML mappings Environment
 * [Map-On](https://github.com/arc-lasalle/Map-On) - A web-based editor for visual ontology mapping for R2RML documents (DEPRECATED)
 
+## Mapping Translators
+* [YARRRML-parser](https://github.com/RMLio/yarrrml-parser) - JavaScript engine that translates from YARRRML/RML/R2RML to YARRRML/RML/R2RML
+* [YARRRML-translator](https://github.com/oeg-upm/yarrrml-translator) - Python engine, translating from YARRRML/RML/R2RML to YARRRML/RML/R2RML with support for RML-star and easy-to-read outputs
+* [Mapeathor](https://morph.oeg.fi.upm.es/tool/mapeathor) - From Excel-based mappings to [R2]RML mappings.
+
 ## Mapping Generators
 * [Spread2RML](https://www.dfki.uni-kl.de/~mschroeder/demo/spread2rml/) - Suggests RML mappings on messy spreadsheets.
 * [OWL2YARRRML](https://github.com/oeg-upm/owl2yarrrml) - Generates a mapping template in YARRRML given an ontology.
