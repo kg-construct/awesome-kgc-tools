@@ -47,7 +47,7 @@ Links and description of Knowledge Graphs Construction Tools
 
 ## Mapping Translators
 * [YARRRML-parser](https://github.com/RMLio/yarrrml-parser) - JavaScript engine that translates from YARRRML/RML/R2RML to YARRRML/RML/R2RML
-* [YARRRML-translator](https://github.com/oeg-upm/yarrrml-translator) - Python engine, translating from YARRRML/RML/R2RML to YARRRML/RML/R2RML with support for RML-star and easy-to-read outputs
+* [YATTER](https://github.com/oeg-upm/yatter) - Python engine, translating from YARRRML/RML/R2RML to YARRRML/RML/R2RML with support for RML-star and easy-to-read outputs
 * [Mapeathor](https://morph.oeg.fi.upm.es/tool/mapeathor) - From Excel-based mappings to [R2]RML mappings.
 
 ## Mapping Generators
