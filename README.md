@@ -27,14 +27,18 @@ Links and description of Knowledge Graphs Construction Tools
 * [TNNT](https://w3id.org/kgcp/MEL-TNNT/) - (*The NLP/NER Toolkit*) - A tool that automates the extraction of categorised named entities from the unstructured information encoded in the source documents, using diverse NLP tools and NER models.
 
 ## Mapping Specifications
-* [RML](https://rml.io/specs/rml/) - The RDF Mapping language (RML) is a mapping language defined to express customized mapping rules from heterogeneous data structures and serializations to the RDF data model. 
-* [Target in RML](https://rml.io/specs/rml-target/) - Alignment between RML and Target to describe how your knowledge graph should be exported to one or multiple targets.
-* [DataIO](https://rml.io/specs/dataio/) - Target, a formal model and a common representation for specifying how a Knowledge Graph should be exported to a given target
-* [FnO](https://fno.io/spec/) - Function Ontology (FnO), a way to semantically declare and describe implementation-independent functions, and their relations to related concepts such as parameters, outputs, related problems, algorithms, mappings to concrete implementations, and executions.
+
+* [RML by KG Construction W3C Community Group](https://w3id.org/rml/portal) - Modular redesign of the RML mapping language including support for collections and containers, input/output, rdf-star, and functions.
 * [YARRRML](https://rml.io/yarrrml/spec/) - YARRRML is a human readable text-based representation for declarative generation rules.
 * [J2RM](https://w3id.org/kgcp/J2RM/) - J2RM mappings and its engine compose a tool to process mappings from JSON data to RDF triples guided by an OWL2 ontology structure.
 * [xls2rdf](https://skos-play.sparna.fr/play/convert?lang=en#documentation) - The documentation for the "magic line" of the xls2rdf converter.
 * [xR2RML](https://www.i3s.unice.fr/~fmichel/xr2rml_specification.html) - xR2RML is a language for expressing customized mappings from various types of databases (XML, object-oriented, NoSQL) to RDF datasets.
+
+### Previous RML version (and extensions)
+* [RML](https://rml.io/specs/rml/) - The RDF Mapping language (RML) is a mapping language defined to express customized mapping rules from heterogeneous data structures and serializations to the RDF data model. 
+* [Target in RML](https://rml.io/specs/rml-target/) - Alignment between RML and Target to describe how your knowledge graph should be exported to one or multiple targets.
+* [DataIO](https://rml.io/specs/dataio/) - Target, a formal model and a common representation for specifying how a Knowledge Graph should be exported to a given target
+* [FnO](https://fno.io/rml/) - Function Ontology (FnO), a way to semantically declare and describe implementation-independent functions, and their relations to related concepts such as parameters, outputs, related problems, algorithms, mappings to concrete implementations, and executions.
 
 ## Mapping Editors
 * [JUMA](https://opengogs.adaptcentre.ie/crottija/juma-r2rml) - Jigsaw Puzzles for Representing Mappings
