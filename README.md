@@ -12,6 +12,8 @@ Links and description of Knowledge Graphs Construction Tools
 * [SDM-RDFizer](https://github.com/SDM-TIB/SDM-RDFizer) - An efficient scaled-up RML-compliant engine for knowledge graph construction from heterogenous data sources.
 * [CARML](https://github.com/carml/carml) - An extensible RML processor to generate RDF knowledge graphs from heterogeneous data sources.
 * [R2RML-F](https://github.com/chrdebru/r2rml) - An R2RML processor with support for functions in JavaScript. Allows one to transform the contents of CSV files as virtual relational tables.
+* [RocketRML](https://github.com/semantifyit/RocketRML) - RML processor to generate RDF knowledge graphs from heterogeneous data sources, implemented in JavaScript.
+* [PyRML](https://github.com/anuzzolese/pyrml) - Python-based engine for processing RML files.
 
 ## KGC Virtualizers
 * [Ontop](https://github.com/ontop/ontop) - Ontop is a platform to query relational databases as Virtual RDF Graphs using SPARQL (R2RML)
