@@ -1,3 +1,5 @@
+[![Awesome](https://awesome.re/badge.svg)](https://github.com//kg-construct/awesome-kgc-tools) 
+
 # Awesome KGC Tools
 
 Links and description of Knowledge Graphs Construction Tools
