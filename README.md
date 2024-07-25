@@ -70,5 +70,6 @@ Links and description of Knowledge Graphs Construction Tools
 * [KROWN](https://github.com/kg-construct/krown) - A Benchmark for RDF Graph Materialization
 * [Data Sprout](https://www.dfki.uni-kl.de/~mschroeder/demo/datasprout/) - Excel spreadsheet generator for evaluating KG construction.
 * [GTFS-Madrid-Bench](https://github.com/oeg-upm/gtfs-bench) - Benchmark to evaluate performance & scalability of declarative KG construction engines.
+* [SDM-Genomics](https://doi.org/10.6084/m9.figshare.14838342.v1) - Dataset to test simple and complex mapping operations in RML.
 * [LUBM4OBDA](https://github.com/oeg-upm/lubm4obda) - OBDA benchmark for inference and meta knowledge evaluation.
 
