@@ -20,6 +20,7 @@ Links and description of Knowledge Graphs Construction Tools
 
 ## KGC Virtualizers
 * [Ontop](https://github.com/ontop/ontop) - Ontop is a platform to query relational databases as Virtual RDF Graphs using SPARQL (R2RML)
+* [SPARQL Anything](https://github.com/SPARQL-Anything/sparql.anything) - SPARQL Anything is a tool for querying anything with SPARQL.
 
 ## KGC Pre-processors
 * [MEL](https://w3id.org/kgcp/MEL-TNNT/) - (*Metadata Extractor & Loader*) - A tool to extract metadata (and textual content) from various file formats, as JSON objects.
