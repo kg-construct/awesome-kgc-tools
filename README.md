@@ -54,6 +54,7 @@ Links and description of Knowledge Graphs Construction Tools
 * [RMLx Visual Editor](https://pebbie.org/mashup/rml) - A web based editor for RML rules. 
 * [Square](https://square.semvis.pl/projects) - SPARQL Queries and R2RML mappings Environment
 * [Map-On](https://github.com/arc-lasalle/Map-On) - A web-based editor for visual ontology mapping for R2RML documents (DEPRECATED)
+* [Karma](https://usc-isi-i2.github.io/karma/) - A web-based editor for visually creating R2RML mappings in order to create RDF from databases, spreadsheets, delimited text files, XML, JSON, KML and Web APIs according to an ontology of the user's choice.
 
 ## Mapping Translators
 * [YARRRML-parser](https://github.com/RMLio/yarrrml-parser) - JavaScript engine that translates from YARRRML/RML/R2RML to YARRRML/RML/R2RML
