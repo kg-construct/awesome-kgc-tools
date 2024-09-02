@@ -18,7 +18,7 @@ Links and description of Knowledge Graphs Construction Tools
 * [PyRML](https://github.com/anuzzolese/pyrml) - Python-based engine for processing RML files.
 * [FlexRML](https://github.com/wintechis/flex-rml) - A Memory-Efficient Interpreter for RML written in C++.
 * [SPARQL Anything](https://github.com/SPARQL-Anything/sparql.anything) - SPARQL Anything is a tool for querying anything with SPARQL.
-
+* [Helio Ecosystem](https://helio-playground.linkeddata.es/home) - A framework based on plugins for generate and manipulate RDF knowledge graphs with RML or a custom mapping language based on [Freemarker](https://freemarker.apache.org/index.html)
 ## KGC Virtualizers
 * [Ontop](https://github.com/ontop/ontop) - Ontop is a platform to query relational databases as Virtual RDF Graphs using SPARQL (R2RML)
 
@@ -55,6 +55,7 @@ Links and description of Knowledge Graphs Construction Tools
 * [Square](https://square.semvis.pl/projects) - SPARQL Queries and R2RML mappings Environment
 * [Map-On](https://github.com/arc-lasalle/Map-On) - A web-based editor for visual ontology mapping for R2RML documents (DEPRECATED)
 * [Karma](https://usc-isi-i2.github.io/karma/) - A web-based editor for visually creating R2RML mappings in order to create RDF from databases, spreadsheets, delimited text files, XML, JSON, KML and Web APIs according to an ontology of the user's choice.
+* [Helio Playground](https://helio-playground.linkeddata.es/) - A web-base playground to edit and use RML mappings and custom Freemarker-based mappings.
 
 ## Mapping Translators
 * [YARRRML-parser](https://github.com/RMLio/yarrrml-parser) - JavaScript engine that translates from YARRRML/RML/R2RML to YARRRML/RML/R2RML
