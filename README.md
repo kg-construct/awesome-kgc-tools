@@ -68,6 +68,9 @@ Links and description of Knowledge Graphs Construction Tools
 ## KGC Pipelines
 * [KGCP](http://w3id.org/kgcp/) - "_KG Construction Pipeline_" - A suite of software artifacts to automate the creation of KGs from heterogeneous data sources.
 
+## KG subgraph extractors
+* [KGPrune](https://kgprune.loria.fr/) - An API and Web application for extracting subgraphs of interest from Wikidata based on user-input seed entities, to bootstrap a new KG.
+
 ## KGC Evaluation
 * [KROWN](https://github.com/kg-construct/krown) - A Benchmark for RDF Graph Materialization
 * [Data Sprout](https://www.dfki.uni-kl.de/~mschroeder/demo/datasprout/) - Excel spreadsheet generator for evaluating KG construction.
