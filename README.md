@@ -84,4 +84,5 @@ Links and description of Knowledge Graphs Construction Tools
 * [GTFS-Madrid-Bench](https://github.com/oeg-upm/gtfs-bench) - Benchmark to evaluate performance & scalability of declarative KG construction engines.
 * [SDM-Genomics](https://doi.org/10.6084/m9.figshare.14838342.v1) - Dataset to test simple and complex mapping operations in RML.
 * [LUBM4OBDA](https://github.com/oeg-upm/lubm4obda) - OBDA benchmark for inference and meta knowledge evaluation.
+* [BLINKG](https://github.com/citiususc/blinkg) - Benchmark for evaluating automated approaches to generate mapping rules between ontologies and (semi)structured data sources
 
