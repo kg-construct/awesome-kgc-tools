@@ -32,6 +32,7 @@ Links and description of Knowledge Graphs Construction Tools
 
 ## NLP for KGC
 * [TNNT](https://w3id.org/kgcp/MEL-TNNT/) - (*The NLP/NER Toolkit*) - A tool that automates the extraction of categorised named entities from the unstructured information encoded in the source documents, using diverse NLP tools and NER models.
+* [SSKG Hub](https://www.sskg-hub.com/) - (*Sustainability Standards KG Hub*) - An expert-guided platform that builds knowledge graphs from sustainability disclosure standards (GRI, SASB, TCFD, IFRS S2) via LLM-based triple extraction with configurable chunking and standard-specific prompting; extracted triples form a provenance-linked Draft KG that domain experts review and promote to a Certified KG. [Paper](https://arxiv.org/abs/2603.00669)
 
 ## Mapping Specifications
 
